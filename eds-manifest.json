@@ -1,0 +1,12 @@
+{
+  "project": "eds-code",
+  "version": "1.0",
+  "blocks": [
+    "cards",
+    "columns",
+    "footer",
+    "fragment",
+    "header",
+    "hero"
+  ]
+}

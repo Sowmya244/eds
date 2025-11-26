@@ -1,3 +1,3 @@
 mountpoints:
-  /: https://raw.githubusercontent.com/sowmya244/eds/main/docs/
+  /: https://raw.githubusercontent.com/sowmya244/eds-code/main/docs/
   type: markup
